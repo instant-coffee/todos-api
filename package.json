@@ -1,0 +1,13 @@
+{
+  "name": "todos-api",
+  "version": "1.0.0",
+  "description": "todo list api",
+  "author": "lachlan mackenzie",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  },
+  "scripts": {
+    "start": "json-server data.json"
+  }
+}
